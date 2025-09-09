@@ -28,7 +28,7 @@ Focused on building scalable applications with Java, Spring Boot, and Cloud-nati
 ---
 
 ## 📊 GitHub Activity
-![Amol's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Amol's GitHub stats](https://github-readme-stats.vercel.app/api?username=03amol&show_icons=true&theme=radical)
 
 ---
 
