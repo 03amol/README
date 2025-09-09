@@ -51,5 +51,4 @@ I enjoy contributing to open-source projects, exploring **cloud-native tools**, 
 
 ## 📫 Connect with Me
 [![Email](https://img.shields.io/badge/Email-amolsingh3%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amolsingh3@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amol%20Singh%20Patel-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
 [![GitHub](https://img.shields.io/badge/GitHub-03amol-black?style=for-the-badge&logo=github)](https://github.com/03amol)  
